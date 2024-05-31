@@ -1,0 +1,57 @@
+.map-container-1 {
+  /* display: none; */
+  width: 904px;
+  height: 830px;
+  background-image: url("./map1.jpg");
+}
+
+.map-container-2 {
+  display: none;
+  width: 904px;
+  height: 830px;
+  background-image: url("./map2.jpg");
+}
+
+.map-container-3 {
+  display: none;
+  width: 904px;
+  height: 830px;
+  background-image: url("./map3.jpg");
+}
+
+.map-container-4 {
+  display: none;
+  width: 904px;
+  height: 830px;
+  background-image: url("./map4.jpg");
+}
+
+.wrapper {
+  width: 400px;
+  height: 500px;
+}
+
+#floor1,
+#floor2,
+#floor3,
+#floor4 {
+  width: 20px;
+  height: 20px;
+}
+
+.canvas1 {
+  /* display: none; */
+  background-color: green;
+}
+.canvas2 {
+  display: none;
+  background-color: yellow;
+}
+.canvas3 {
+  display: none;
+  background-color: orange;
+}
+.canvas4 {
+  display: none;
+  background-color: red;
+}
