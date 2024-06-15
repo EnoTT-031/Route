@@ -149,6 +149,7 @@ function dijkstra(graph, start, end) {
   shortPath.unshift(start);
 
   return shortPath;
+  conslo.log(shortPath);
 }
 
 // Взвешенный граф (указаны расстояние между точками)
